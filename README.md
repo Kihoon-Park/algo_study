@@ -1,8 +1,4 @@
-# ssafy_3 (가제)
+# 2020
 ## algorithm study
-
 > backjoon
 
-> jungol
-
-> swea
