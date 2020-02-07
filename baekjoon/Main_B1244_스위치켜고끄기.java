@@ -1,4 +1,4 @@
-package com.ssafy.hw;
+﻿package com.ssafy.hw;
 
 import java.util.Scanner;
 
@@ -40,8 +40,7 @@ public class Main_B1244_스위치켜고끄기 {
 						break;
 					x++;
 				}
-				// System.out.println("몇칸?" + x);
-
+		
 				if (bulb[input] == 0) { // 0일때
 					// System.out.println("0이네");
 					bulb[input] = 1;
