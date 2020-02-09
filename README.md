@@ -1,4 +1,4 @@
 # 2020
 ## algorithm study
-> backjoon
+> backjoon ( 20/01/24 ~ )
 
